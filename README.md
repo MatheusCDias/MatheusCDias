@@ -2,22 +2,16 @@
 <h2>GitHub Profile</h2>
 
 - About me:
-  - Matheus Costa Dias
-  - Bachelor of Computer Engineering
-  - Brazil
+  - Bachelor's student in Computer Engineering
+  - I'm a self-taught passionate Game Developer
+  - From Brazil
  
 - GitHub Stats:<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCDias&show_icons=true&bg_color=0D0D0D&border_color=222222&text_color=EAEAEA&title_color=58A1DA&icon_color=84D1DD&border_radius=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCDias&layout=compact&bg_color=0D0D0D&border_color=222222&text_color=EAEAEA&title_color=58A1DA&icon_color=84D1DD&border_radius=8)
 
 - Last Project:<br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusCDias&repo=github-readme-stats&bg_color=0D0D0D&border_color=222222&text_color=EAEAEA&title_color=58A1DA&icon_color=84D1DD&border_radius=8)](https://github.com/MatheusCDias/Internal_Project_Prototype-Platformer_Game)
-
-- Technologies and tools:
-  - C#
-  - C++
-  - Unity
-  <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusCDias&repo=Internal_Project_Prototype-Platformer_Game&bg_color=0D0D0D&border_color=222222&text_color=EAEAEA&title_color=58A1DA&icon_color=84D1DD&border_radius=8)](https://github.com/MatheusCDias/Internal_Project_Prototype-Platformer_Game)
 
 - Contact:
 <div> 
