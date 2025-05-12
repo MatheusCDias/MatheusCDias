@@ -3,7 +3,7 @@
 
 - About me:
   - Bachelor's student in Computer Engineering
-  - I'm a self-taught passionate Game Developer
+  - Full Stack Developer in Progress
   - From Brazil
  
 - GitHub Stats:<br><br>
